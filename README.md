@@ -49,5 +49,10 @@ OpenCV (for image processing)
 
 Matplotlib, Seaborn (for visualization)
 
-Results
+**Results**
 Both models performed well in classifying the images. DenseNet-201 showed slightly better performance compared to VGG-16.
+| Model        | Accuracy | 
+| ------------ | -------- |
+| DenseNet-201 | 62%      |   
+| VGG-16       | 77%      |
+
